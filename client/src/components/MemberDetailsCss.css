@@ -1,0 +1,19 @@
+.edit-btn{
+    padding: 0.5%;
+    font-size: 14px;
+    background-color: #c0f6b2; 
+    color: #242020;
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 0.05rem;
+    margin-right: 2%;
+}
+.home-btn{
+    padding: 0.5%;
+    font-size: 14px;
+    background-color: #f7f8f7; 
+    color: #242020;
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 0.05rem;
+}

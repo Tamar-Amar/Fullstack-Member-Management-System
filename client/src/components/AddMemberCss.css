@@ -1,0 +1,84 @@
+
+.title{
+    padding-bottom: 6rem;
+    margin-bottom: 6rem;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 42%;
+}
+.personal-details{
+    margin-top: 2%;
+}
+.save-btn{
+    padding: 0.6%;
+    font-size: 16px;
+    background-color: #c0f6b2; 
+    color: #242020;
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 0.05rem;
+    margin-bottom: 1rem;
+    margin-left: 42%;
+    margin-top: 1%;
+}
+.cancel-btn{
+    padding: 0.8%;
+    font-size: 16px;
+    background-color: #f56762; 
+    color: #242020;
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 0.05rem;
+    margin-bottom: 1rem;
+    margin-left: 41.5%;
+    margin-top: 1%;
+}
+.note-red{
+    margin-left: 14%;
+    font-size: small;
+}
+.all-member-details{
+    margin-left: 13%;
+    margin-right: 13%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin-top: 2rem;
+}
+.add-vac{
+    background-color: #d0f3c6; 
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 0.05rem;
+    margin-left: 30%;
+    margin-top: 1%;
+    padding: 2%;
+}
+.personal-details>div{
+    margin-bottom: 1.5%;
+    font-size: 17px;
+}
+.covid-div>div{
+    margin-bottom: 1.5%;
+    font-size: 17px;
+}
+.vac-title{
+    font-size: 20px;
+    padding-bottom: 5%;
+}
+.row{
+    margin-top: 6px;
+}
+.col{
+    margin-top: 4px;
+}
+.must{
+    border-bottom: 1px solid red;
+    border-top: 1px none red;
+    border-left: 2px none red;
+    border-right: 2px none red;
+}
+input{
+    border: 2px none red;
+    padding: 4px;
+}

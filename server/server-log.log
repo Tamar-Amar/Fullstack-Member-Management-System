@@ -1,0 +1,39 @@
+{"level":"info","message":"Server started successfully on port 7777","timestamp":"2024-04-09 02:02:50"}
+{"level":"info","message":"Database connection established","timestamp":"2024-04-09 02:02:50"}
+{"level":"info","message":"Connected to database","timestamp":"2024-04-09 02:02:50"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 02:03:05"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 02:03:05"}
+{"level":"info","message":"Server started successfully on port 7777","timestamp":"2024-04-09 02:05:19"}
+{"level":"info","message":"Database connection established","timestamp":"2024-04-09 02:05:19"}
+{"level":"info","message":"Connected to database","timestamp":"2024-04-09 02:05:19"}
+{"level":"info","message":"Server started successfully on port 7777","timestamp":"2024-04-09 15:14:59"}
+{"level":"info","message":"Database connection established","timestamp":"2024-04-09 15:14:59"}
+{"level":"info","message":"Connected to database","timestamp":"2024-04-09 15:14:59"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:04"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:04"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:32"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:32"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:37"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:37"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:45"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:45"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:55"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:16:55"}
+{"level":"info","message":"Received DELETE request for dellMemberByID","timestamp":"2024-04-09 15:16:58"}
+{"level":"info","message":"Received POST request for addMember","timestamp":"2024-04-09 15:18:08"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:08"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:08"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:24"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:24"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:36"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:36"}
+{"level":"info","message":"Received PUT request for editMember","timestamp":"2024-04-09 15:18:57"}
+{"$__":{"activePaths":{"paths":{"MemberID":"init","__v":"init","_id":"init","address.city":"init","address.numBuild":"init","address.street":"init","birthDate":"init","cellphone":"init","firstName":"init","lastName":"init","positiveResult":"init","telephone":"init","vaccinations":"init"},"states":{"init":{"MemberID":true,"__v":true,"_id":true,"address.city":true,"address.numBuild":true,"address.street":true,"birthDate":true,"cellphone":true,"firstName":true,"lastName":true,"positiveResult":true,"telephone":true,"vaccinations":true}}},"skipId":true},"$isNew":false,"_doc":{"MemberID":"325952836","__v":0,"_id":"66153200a917af492b24ed47","address":{"city":"Beit shemesh","numBuild":"9","street":"shacham"},"birthDate":"2024-04-01T00:00:00.000Z","cellphone":"0000000000","firstName":"tamar","lastName":"Amar","positiveResult":"2024-04-04T00:00:00.000Z","telephone":"","vaccinations":[{"_id":"66153200a917af492b24ed48","manufacturer":"Pfizer","vaccinatedDate":"2024-04-01T00:00:00.000Z"},{"_id":"66153231a917af492b24ed7b","manufacturer":"Moderna","vaccinatedDate":"2024-04-01T00:00:00.000Z"}]},"level":"info","message":"Member updated successfully:","timestamp":"2024-04-09 15:18:57"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:58"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:18:58"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:19:03"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:19:03"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:19:10"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:19:10"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:23:42"}
+{"level":"info","message":"Received GET request for getAllMembers","timestamp":"2024-04-09 15:23:42"}

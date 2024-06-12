@@ -1,0 +1,20 @@
+body{
+    background-color: #ebebeb;
+
+}
+.rep-tit{
+    color: #333333;
+    margin-left: 40%;
+}
+.component{
+    margin-top: 4%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+button:hover{
+    cursor: pointer;
+}
+
+
+

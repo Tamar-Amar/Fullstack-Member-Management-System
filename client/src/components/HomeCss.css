@@ -1,0 +1,50 @@
+.to-covid-report{
+    padding: 1%;
+    font-size: large;
+    background-color: #f1cece; 
+    color: #242020;
+    border-radius: 3%;
+    border-style: solid;
+    border-width: 0.05rem;
+    margin-bottom: 1rem;
+}
+.to-covid-report:hover{
+    background-color: #dfb6b6; 
+}
+.one-member-row {
+    border-bottom: 1px solid #ccc;
+    padding: 2%; 
+  }
+
+.member-name{
+    font-size: 1.3rem;
+    margin-right: 3%;
+    font-weight: 600;
+}
+
+.to-add-member{
+    padding: 1%;
+    font-size: large;
+    color: #242020;
+    border-radius: 3%;
+    border-style: solid;
+    border-width: 0.05rem;
+    margin-bottom: 5%;
+    background-color: #c0f6b2; 
+}
+
+.to-add-member:hover{
+    background-color:#5fba7d;
+}
+
+.btn-mem{
+    font-weight: 300;
+    margin-right: 0.8%;
+}
+
+.del{
+    border-radius: 7%;
+    border-style: solid;
+    border-width: 0.05rem;
+    background-color: rgb(243, 171, 171);
+}
